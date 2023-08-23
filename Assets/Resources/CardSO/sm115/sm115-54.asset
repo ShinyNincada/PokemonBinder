@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-54
+  m_EditorClassIdentifier: 
+  cardId: sm115-54
+  cardName: Brock's Pewter City Gym
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 0
+  cardSuperTypes: 2
+  cardRarity: 31
+  lowPrice: 0.01
+  midPrice: 0.1
+  highPrice: 1.99
+  smallImageUrl: https://images.pokemontcg.io/sm115/54.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/54_hires.png
+  smallImage: {fileID: 2800000, guid: 968573a0e01f850449c618d8a1024b3f, type: 3}
+  largeImage: {fileID: 2800000, guid: a029b722911587341bd60fa7d4ee7196, type: 3}

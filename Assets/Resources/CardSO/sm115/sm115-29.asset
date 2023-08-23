@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-29
+  m_EditorClassIdentifier: 
+  cardId: sm115-29
+  cardName: Weezing
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 9
+  cardSuperTypes: 1
+  cardRarity: 9
+  lowPrice: 0.08
+  midPrice: 0.25
+  highPrice: 1.5
+  smallImageUrl: https://images.pokemontcg.io/sm115/29.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/29_hires.png
+  smallImage: {fileID: 2800000, guid: 5de3bc8c967474c40901af70e414e635, type: 3}
+  largeImage: {fileID: 2800000, guid: 26b680c8d6224e34abc102a32323761a, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-63
+  m_EditorClassIdentifier: 
+  cardId: sm115-63
+  cardName: Misty's Water Command
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 0
+  cardSuperTypes: 2
+  cardRarity: 12
+  lowPrice: 0.19
+  midPrice: 0.6
+  highPrice: 95
+  smallImageUrl: https://images.pokemontcg.io/sm115/63.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/63_hires.png
+  smallImage: {fileID: 2800000, guid: e369e639f2e960549a0f521598193f1b, type: 3}
+  largeImage: {fileID: 2800000, guid: 2fe13aae7d91f7842834f0c1a2cedae3, type: 3}

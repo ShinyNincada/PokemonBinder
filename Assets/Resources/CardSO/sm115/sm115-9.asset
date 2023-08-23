@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-9
+  m_EditorClassIdentifier: 
+  cardId: sm115-9
+  cardName: Charizard-GX
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 5
+  cardSuperTypes: 1
+  cardRarity: 14
+  lowPrice: 3.39
+  midPrice: 4.93
+  highPrice: 19.95
+  smallImageUrl: https://images.pokemontcg.io/sm115/9.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/9_hires.png
+  smallImage: {fileID: 2800000, guid: dca3c5efd08aaf346842e098ce1873cd, type: 3}
+  largeImage: {fileID: 2800000, guid: 92a995090799d524ca605f1c53eec405, type: 3}

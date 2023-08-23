@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-43
+  m_EditorClassIdentifier: 
+  cardId: sm115-43
+  cardName: Mr. Mime
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 3
+  cardSuperTypes: 1
+  cardRarity: 9
+  lowPrice: 0.18
+  midPrice: 0.28
+  highPrice: 1.19
+  smallImageUrl: https://images.pokemontcg.io/sm115/43.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/43_hires.png
+  smallImage: {fileID: 2800000, guid: c292ddd572933ef429e5e26f83d532c0, type: 3}
+  largeImage: {fileID: 2800000, guid: a22070463862fc046978036ef2b55e05, type: 3}

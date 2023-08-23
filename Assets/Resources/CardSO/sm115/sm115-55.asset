@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-55
+  m_EditorClassIdentifier: 
+  cardId: sm115-55
+  cardName: Brock's Training
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 0
+  cardSuperTypes: 2
+  cardRarity: 12
+  lowPrice: 0.2
+  midPrice: 0.4
+  highPrice: 1.92
+  smallImageUrl: https://images.pokemontcg.io/sm115/55.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/55_hires.png
+  smallImage: {fileID: 2800000, guid: d1f2dfb4a76883e4aa9fb3b525b31f13, type: 3}
+  largeImage: {fileID: 2800000, guid: a24ffbfbbeb35ae4b865c5dbee34bd36, type: 3}

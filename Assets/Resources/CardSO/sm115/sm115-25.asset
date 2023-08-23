@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-25
+  m_EditorClassIdentifier: 
+  cardId: sm115-25
+  cardName: Ekans
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 9
+  cardSuperTypes: 1
+  cardRarity: 2
+  lowPrice: 0.01
+  midPrice: 0.12
+  highPrice: 1.99
+  smallImageUrl: https://images.pokemontcg.io/sm115/25.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/25_hires.png
+  smallImage: {fileID: 2800000, guid: 9cf95e4bf96ce9c4f801518f3ca30630, type: 3}
+  largeImage: {fileID: 2800000, guid: d6f2e7851ee5b5a4d986d3f01da89618, type: 3}
