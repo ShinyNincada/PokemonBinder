@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-20
+  m_EditorClassIdentifier: 
+  cardId: sm115-20
+  cardName: Raichu-GX
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 7
+  cardSuperTypes: 1
+  cardRarity: 14
+  lowPrice: 0.81
+  midPrice: 1.37
+  highPrice: 5
+  smallImageUrl: https://images.pokemontcg.io/sm115/20.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/20_hires.png
+  smallImage: {fileID: 2800000, guid: ecff91912a68ee54a86dd45a764acf85, type: 3}
+  largeImage: {fileID: 2800000, guid: ec16b8088ecb6764597322c1fe4177ef, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-40
+  m_EditorClassIdentifier: 
+  cardId: sm115-40
+  cardName: Clefable
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 3
+  cardSuperTypes: 1
+  cardRarity: 9
+  lowPrice: 0.1
+  midPrice: 0.31
+  highPrice: 1.09
+  smallImageUrl: https://images.pokemontcg.io/sm115/40.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/40_hires.png
+  smallImage: {fileID: 2800000, guid: b663164c45f42f34a8aa9943e4bbc6ac, type: 3}
+  largeImage: {fileID: 2800000, guid: ae4c55e7d517a684f81df2359a6bd05b, type: 3}

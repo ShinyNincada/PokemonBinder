@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-1
+  m_EditorClassIdentifier: 
+  cardId: sm115-1
+  cardName: Caterpie
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 6
+  cardSuperTypes: 1
+  cardRarity: 2
+  lowPrice: 0.02
+  midPrice: 0.1
+  highPrice: 2
+  smallImageUrl: https://images.pokemontcg.io/sm115/1.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/1_hires.png
+  smallImage: {fileID: 2800000, guid: 20ed74f03082d17499933346c7d2e8eb, type: 3}
+  largeImage: {fileID: 2800000, guid: 7b9b0fda53caf1f4e88ddd0f2c551834, type: 3}

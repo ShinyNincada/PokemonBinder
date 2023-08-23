@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-52
+  m_EditorClassIdentifier: 
+  cardId: sm115-52
+  cardName: Blaine's Last Stand
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 0
+  cardSuperTypes: 2
+  cardRarity: 9
+  lowPrice: 0.12
+  midPrice: 0.25
+  highPrice: 1.15
+  smallImageUrl: https://images.pokemontcg.io/sm115/52.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/52_hires.png
+  smallImage: {fileID: 2800000, guid: 592e279430be14b4283beb42a433ffc3, type: 3}
+  largeImage: {fileID: 2800000, guid: 3f4f8974f76bd81448919a99c750315c, type: 3}

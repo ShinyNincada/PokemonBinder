@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-44
+  m_EditorClassIdentifier: 
+  cardId: sm115-44
+  cardName: Moltres & Zapdos & Articuno-GX
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 0
+  cardSuperTypes: 1
+  cardRarity: 14
+  lowPrice: 6.74
+  midPrice: 8.49
+  highPrice: 22
+  smallImageUrl: https://images.pokemontcg.io/sm115/44.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/44_hires.png
+  smallImage: {fileID: 2800000, guid: 3ec6ec7a157f16c4cadb5533cc6b5ba3, type: 3}
+  largeImage: {fileID: 2800000, guid: 7f17396fe70720747ab8ebbde1faef1d, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-51
+  m_EditorClassIdentifier: 
+  cardId: sm115-51
+  cardName: Bill's Analysis
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 0
+  cardSuperTypes: 2
+  cardRarity: 9
+  lowPrice: 0.05
+  midPrice: 0.25
+  highPrice: 2.5
+  smallImageUrl: https://images.pokemontcg.io/sm115/51.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/51_hires.png
+  smallImage: {fileID: 2800000, guid: c7d526f758f3b4843bf3c1c9a4686623, type: 3}
+  largeImage: {fileID: 2800000, guid: fa8581a5562b54c4abf70ad672da706c, type: 3}

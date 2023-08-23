@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-65
+  m_EditorClassIdentifier: 
+  cardId: sm115-65
+  cardName: Sabrina's Suggestion
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 0
+  cardSuperTypes: 2
+  cardRarity: 31
+  lowPrice: 0.01
+  midPrice: 0.13
+  highPrice: 1.99
+  smallImageUrl: https://images.pokemontcg.io/sm115/65.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/65_hires.png
+  smallImage: {fileID: 2800000, guid: 9a6cb1decbabd4c4f9bfffd59be23bdc, type: 3}
+  largeImage: {fileID: 2800000, guid: a8e4bab319f68714b82730b7febcf7a1, type: 3}

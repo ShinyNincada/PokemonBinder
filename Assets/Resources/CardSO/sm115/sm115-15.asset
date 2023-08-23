@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-15
+  m_EditorClassIdentifier: 
+  cardId: sm115-15
+  cardName: Magikarp
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 10
+  cardSuperTypes: 1
+  cardRarity: 2
+  lowPrice: 0.15
+  midPrice: 0.3
+  highPrice: 1
+  smallImageUrl: https://images.pokemontcg.io/sm115/15.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/15_hires.png
+  smallImage: {fileID: 2800000, guid: e074e5b9160a0c84ab33f4705c23449d, type: 3}
+  largeImage: {fileID: 2800000, guid: 74f9739c724282a4c82e169d0e9b0d77, type: 3}

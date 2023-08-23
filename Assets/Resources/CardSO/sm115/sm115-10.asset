@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8864ae359f850c4ebda09507a771de8, type: 3}
+  m_Name: sm115-10
+  m_EditorClassIdentifier: 
+  cardId: sm115-10
+  cardName: Magmar
+  cardSetID: sm115
+  cardSetName: Hidden Fates
+  cardType: 5
+  cardSuperTypes: 1
+  cardRarity: 31
+  lowPrice: 0.08
+  midPrice: 0.25
+  highPrice: 1.25
+  smallImageUrl: https://images.pokemontcg.io/sm115/10.png
+  largeImageUrl: https://images.pokemontcg.io/sm115/10_hires.png
+  smallImage: {fileID: 2800000, guid: dc8cb899feb583b4080366bc1293293f, type: 3}
+  largeImage: {fileID: 2800000, guid: 911c338ce0cf6624689fedff8243d99b, type: 3}
